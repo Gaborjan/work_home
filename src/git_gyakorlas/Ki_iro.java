@@ -10,6 +10,9 @@ public class Ki_iro {
 		System.out.println("3.) A harmadik sor Mac-en pedig EZ.");
 		System.out.println("4.) Meghagytam mindkét 3. sort, mert tetszett. 4. sor DELL-ről."); 
 		csillagiro();
+		System.out.println("5.) issue54/1.) sor");
+		System.out.println("6.) issue54/2.) sor");
+		System.out.println("7.) issue54/3.) sor");
 	}
 	public static void csillagiro() {
 		System.out.println("*****************************************");
