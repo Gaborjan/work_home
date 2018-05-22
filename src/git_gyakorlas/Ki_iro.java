@@ -3,7 +3,9 @@ package git_gyakorlas;
 public class Ki_iro {
 
 	public static void main(String[] args) {
-		System.out.println("1.) Elsı mÛdosÌt·s, elsı sor"); 
+		System.out.println("1.) Els≈ë m√≥dos√≠t√°s, els≈ë sor"); 
+		System.out.println("2.) M√°sodik sor, UTF-8");
+		
 
 	}
 
