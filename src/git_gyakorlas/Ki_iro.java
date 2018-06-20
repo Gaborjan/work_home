@@ -15,7 +15,7 @@ public class Ki_iro {
 		System.out.println("7.) issue54/3.) sor");
 	}
 	public static void csillagiro() {
-		System.out.println("*****************************************");
+		System.out.println("******************************************");
 	}
 
 }
